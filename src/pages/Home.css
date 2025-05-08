@@ -1,0 +1,12 @@
+.background{
+    background-color: rgb(197, 197, 197);
+    min-height: 100vh;
+    overflow: hidden;
+}
+.textalign{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    max-width: 90vw;
+    margin: auto;
+}

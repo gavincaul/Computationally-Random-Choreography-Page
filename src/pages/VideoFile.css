@@ -1,0 +1,40 @@
+.videopadding {
+    padding: 5%;
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .videopadding {
+      padding: 30%;
+    }
+    .videotitle {
+      font-size: 20px;
+    }
+  }
+  
+  .videoWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .videoWrapper iframe {
+    width: 100%;
+    max-width: 960px;
+    aspect-ratio: 16 / 9;
+    border: none;
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .videoWrapper iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
+  .buttonWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  
