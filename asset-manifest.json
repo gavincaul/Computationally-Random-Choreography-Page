@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Computationally-Random-Choreography-Page/static/css/main.cae8a24f.css",
-    "main.js": "/Computationally-Random-Choreography-Page/static/js/main.9bae1e85.js",
-    "static/js/453.adbddb74.chunk.js": "/Computationally-Random-Choreography-Page/static/js/453.adbddb74.chunk.js",
-    "static/media/medance.jpg": "/Computationally-Random-Choreography-Page/static/media/medance.3b35f528097b784bfbde.jpg",
-    "index.html": "/Computationally-Random-Choreography-Page/index.html",
-    "main.cae8a24f.css.map": "/Computationally-Random-Choreography-Page/static/css/main.cae8a24f.css.map",
-    "main.9bae1e85.js.map": "/Computationally-Random-Choreography-Page/static/js/main.9bae1e85.js.map",
-    "453.adbddb74.chunk.js.map": "/Computationally-Random-Choreography-Page/static/js/453.adbddb74.chunk.js.map"
+    "main.css": "/gavincaul/Computationally-Random-Choreography-Page.git/static/css/main.cae8a24f.css",
+    "main.js": "/gavincaul/Computationally-Random-Choreography-Page.git/static/js/main.200f0933.js",
+    "static/js/453.adbddb74.chunk.js": "/gavincaul/Computationally-Random-Choreography-Page.git/static/js/453.adbddb74.chunk.js",
+    "static/media/medance.jpg": "/gavincaul/Computationally-Random-Choreography-Page.git/static/media/medance.3b35f528097b784bfbde.jpg",
+    "index.html": "/gavincaul/Computationally-Random-Choreography-Page.git/index.html",
+    "main.cae8a24f.css.map": "/gavincaul/Computationally-Random-Choreography-Page.git/static/css/main.cae8a24f.css.map",
+    "main.200f0933.js.map": "/gavincaul/Computationally-Random-Choreography-Page.git/static/js/main.200f0933.js.map",
+    "453.adbddb74.chunk.js.map": "/gavincaul/Computationally-Random-Choreography-Page.git/static/js/453.adbddb74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cae8a24f.css",
-    "static/js/main.9bae1e85.js"
+    "static/js/main.200f0933.js"
   ]
 }
