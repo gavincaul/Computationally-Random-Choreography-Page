@@ -24,7 +24,7 @@ export default function About() {
           <p>
             Read the paper here:{" "}
             <a
-              href="https://example.com/paper.pdf"
+              href="https://www.gavincaulfield.com/file?src=CRC.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
